@@ -13,5 +13,5 @@ export const Logo = styled.Image.attrs({
 	source: logo,
 	resizeMode: 'center'
 })`
-	height: 80%;
+	height: 50%;
 `;
